@@ -1,0 +1,22 @@
+{
+  "name": "soundwaves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodneycurl/soundwaves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodneycurl/soundwaves/issues"
+  },
+  "homepage": "https://github.com/rodneycurl/soundwaves#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  }
+}
